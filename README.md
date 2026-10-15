@@ -9,7 +9,6 @@ I'm a Computer Science & Engineering student at Santa Clara University intereste
 
 ### 🚀 Featured Projects
 - **[AlertLens](https://github.com/versean/aic-crowdstrike-hackathon)** — AI-powered cybersecurity incident prioritization.
-- **[cuckbot](https://github.com/versean/cuckbot)** — Discord bot for saving and browsing memorable messages.
 
 ### 🔗 Connect
 - 🌐 [Portfolio](https://seancajig.al)
