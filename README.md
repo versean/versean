@@ -10,10 +10,6 @@ I'm a Computer Science & Engineering student at Santa Clara University intereste
 ### 🚀 Featured Projects
 - **[AlertLens](https://github.com/versean/aic-crowdstrike-hackathon)** — AI-powered cybersecurity incident prioritization.
 
-### 🔗 Connect
+### 🔗 Let's Connect!
 - 🌐 [Portfolio](https://seancajig.al)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sean-cajigal/)
-
----
-
-*Always learning, building, and experimenting.*
