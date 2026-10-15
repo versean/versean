@@ -1,6 +1,6 @@
 # Hey, I'm Sean! 👋
 
-I'm a Computer Science & Engineering student at Santa Clara University interested in software development, cybersecurity, infrastructure, and building cool things.
+I'm a Computer Science & Engineering student at Santa Clara University interested in software development, infrastructure, and building cool things.
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, C, C++, JavaScript, Lua/Luau
