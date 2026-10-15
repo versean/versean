@@ -7,9 +7,6 @@ I'm a Computer Science & Engineering student at Santa Clara University intereste
 - **Web:** React, Flask, HTML/CSS
 - **Tools & Infrastructure:** Git, Docker, Linux, Cloudflare, Tailscale
 
-### 🚀 Featured Projects
-- **[AlertLens](https://github.com/versean/aic-crowdstrike-hackathon)** — AI-powered cybersecurity incident prioritization.
-
 ### 🔗 Let's Connect!
 - 🌐 [Portfolio](https://seancajig.al)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sean-cajigal/)
